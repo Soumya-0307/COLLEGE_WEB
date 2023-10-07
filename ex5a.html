@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fibonaci series</title>
+</head>
+<body>
+    <h1 style="text-align: center;">
+    <font face="Times New Roman" size="20" color="blue" >FIBONACCI SERIES</font></h1>
+   <br>
+    <font size="10">
+        <script type="text/javascript">
+            var f=0,s=1,l=0;
+            var n=prompt("enter a number of digit:"," ");
+            document.write(f+","+s);
+            for(i=2;i<n;i++)
+            {
+                l=f+s;
+                document.write(","+l);
+                f=s;
+                s=l;
+            }
+        </script>
+    </font>
+</body>
+</html>
