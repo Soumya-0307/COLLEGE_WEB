@@ -1,0 +1,28 @@
+stud-info{
+    display: block;
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    font: 200%;
+    font-weight: bolder;
+}
+name,usn,yoj,eid,branch,usn{
+    display: block;
+}
+student{
+    display: block;
+}
+stud1{
+    font:100%;
+    color:aqua;
+    display: block;
+}
+stud2{
+    font:100%;
+    color:bisque;
+    display: block;
+}
+stud3{
+    font:100%;
+    color:aquamarine;
+    display: block;
+}

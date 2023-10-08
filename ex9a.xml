@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="info.css" type="text/css"?>
+<student>
+    <stud-info>student Details</stud-info>
+    <stud1>
+        <usn>USN:1DS22MC099</usn>
+        <name>NAME:Soumya Hegde</name>
+        <yoj>Year Of Joining:2016</yoj>
+        <noc>Name of the College:Dayanand sagar College</noc>
+        <branch>Branch:ECC</branch>
+        <eid>Email Id:soumya@gmail.com</eid>
+    </stud1>
+    <stud2>
+        <usn>USN:1DS22MC094</usn>
+        <name>NAME:Amogha Hegde</name>
+        <yoj>Year Of Joining:2015</yoj>
+        <noc>Name of the College:PES</noc>
+        <branch>Branch:CS</branch>
+        <eid>Email Id:amoghaa@gmail.com</eid>
+    </stud2>
+    <stud3>
+        <usn>USN:1DS22MC098</usn>
+        <name>NAME:Swathi Hegde</name>
+        <yoj>Year Of Joining:2022</yoj>
+        <noc>Name of the College:NITTE</noc>
+        <branch>Branch:IS</branch>
+        <eid>Email Id:swathiya@gmail.com</eid>
+    </stud3>
+</student>
